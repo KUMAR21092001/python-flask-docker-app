@@ -6,10 +6,6 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     return "Welcome to Python Test Application - Kumar"
-            "kumar" 
-                   "kumar"
-                           "kumar"
-                                  "kumar"
 
 
 if __name__ == "__main__":
